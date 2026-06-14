@@ -122,6 +122,18 @@ ORDER BY month ASC;
 
 4-page interactive Power BI dashboard covering:
 
+**Business Overview**
+<img width="1918" height="970" alt="Screenshot 2026-06-14 230659" src="https://github.com/user-attachments/assets/68f312d6-9957-40c5-8b6b-e37ad25bbd15" />
+
+**Product & Revenue**
+<img width="1912" height="972" alt="Screenshot 2026-06-14 230647" src="https://github.com/user-attachments/assets/26ee4b84-dec3-493b-a1dc-486a7df4f695" />
+
+**Geography**
+<img width="1913" height="970" alt="Screenshot 2026-06-14 230603" src="https://github.com/user-attachments/assets/4e3015a0-add8-44f2-8ab8-cd00e7a38ff3" />
+
+**Delivery & Satisfaction**
+<img width="1912" height="973" alt="Screenshot 2026-06-14 230712" src="https://github.com/user-attachments/assets/c0473ac2-c6ae-48f8-a608-7f1ce141fd26" />
+
 | Page | Focus |
 |------|-------|
 | Business Overview | KPI cards · Monthly trend · Order status breakdown |
