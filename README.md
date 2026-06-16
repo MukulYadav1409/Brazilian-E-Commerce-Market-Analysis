@@ -117,7 +117,6 @@ This is a real dataset, with real variation, telling a real business story — n
 **Delivery & Satisfaction** — Review score distribution, late delivery vs. rating correlation
 <img width="1912" height="973" alt="Screenshot 2026-06-14 230712" src="https://github.com/user-attachments/assets/c0473ac2-c6ae-48f8-a608-7f1ce141fd26" />
 
-*(Note: rename your screenshot files in the PowerBI folder to match the names above, or update these paths to match your actual filenames.)*
 
 ---
 
