@@ -105,16 +105,17 @@ This is a real dataset, with real variation, telling a real business story — n
 4-page interactive Power BI dashboard covering business overview, product and revenue performance, geographic distribution, and delivery satisfaction.
 
 **Business Overview** — KPI cards, monthly revenue trend, order status breakdown
-Business Overview Screenshot 2026-06-14 230659
+<img width="1918" height="970" alt="Screenshot 2026-06-14 230659" src="https://github.com/user-attachments/assets/68f312d6-9957-40c5-8b6b-e37ad25bbd15" />
 
 **Product & Revenue** — Revenue by category, freight cost analysis
-Product & Revenue Screenshot 2026-06-14 230647
+<img width="1912" height="972" alt="Screenshot 2026-06-14 230647" src="https://github.com/user-attachments/assets/26ee4b84-dec3-493b-a1dc-486a7df4f695" />
 
 **Geography** — Customer and seller distribution by state
-Geography Screenshot 2026-06-14 230603
+
+<img width="1913" height="970" alt="Screenshot 2026-06-14 230603" src="https://github.com/user-attachments/assets/4e3015a0-add8-44f2-8ab8-cd00e7a38ff3" />
 
 **Delivery & Satisfaction** — Review score distribution, late delivery vs. rating correlation
-Delivery & Satisfaction Screenshot 2026-06-14 230712
+<img width="1912" height="973" alt="Screenshot 2026-06-14 230712" src="https://github.com/user-attachments/assets/c0473ac2-c6ae-48f8-a608-7f1ce141fd26" />
 
 *(Note: rename your screenshot files in the PowerBI folder to match the names above, or update these paths to match your actual filenames.)*
 
